@@ -448,7 +448,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wall_2
+      name: wall_full
       rect:
         serializedVersion: 2
         x: 16
@@ -1060,7 +1060,7 @@ TextureImporter:
       name: wall_topview-left-1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
         y: 353
         width: 16
         height: 16
@@ -1081,7 +1081,7 @@ TextureImporter:
       name: wall_topview-left-2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
         y: 337
         width: 16
         height: 16
@@ -1183,7 +1183,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wall_above2
+      name: wall_above_2
       rect:
         serializedVersion: 2
         x: 32
@@ -1288,7 +1288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wall_brickleftside
+      name: wall_brick_right_side2
       rect:
         serializedVersion: 2
         x: 80
@@ -1309,7 +1309,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wall_brickrightside
+      name: wall_brick_left_side2
       rect:
         serializedVersion: 2
         x: 64
@@ -1523,7 +1523,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 253
+        y: 257
         width: 16
         height: 16
       alignment: 0
@@ -1544,7 +1544,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 237
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -1565,7 +1565,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 269
+        y: 272
         width: 16
         height: 16
       alignment: 0
@@ -1586,7 +1586,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 253
+        y: 256
         width: 16
         height: 16
       alignment: 0
@@ -1607,7 +1607,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 253
+        y: 256
         width: 16
         height: 16
       alignment: 0
@@ -1628,7 +1628,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 237
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -1649,7 +1649,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 253
+        y: 256
         width: 16
         height: 16
       alignment: 0
@@ -1670,7 +1670,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 237
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -1691,7 +1691,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 237
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -1712,7 +1712,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 269
+        y: 272
         width: 16
         height: 16
       alignment: 0
@@ -2001,6 +2001,174 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: wall_brick_left_side1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3925762b702124ba4168f4bde0a8cb
+      internalID: 84019711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_brick_right_side1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ec7ea1a83f714ba304e931919d013
+      internalID: -1711354718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_sword_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cbedf706a7c4743922f7665a9e9cf9
+      internalID: -21936464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_sword_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8fdfc7dcd128408cdd73bdac7a724
+      internalID: 292003239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEST_NPC2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf465bfac28cc49acbb2c428dfd889
+      internalID: 654532782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEST_NPC4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c585e323a2e71e46aab4362e6d2c2a9
+      internalID: 1234530056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEST_NPC1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9acdd5a259b23b489bfe963fff9379e
+      internalID: 1019640519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEST_NPC3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e67de9b4967946ae628fc508c9433
+      internalID: 334100153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2021,6 +2189,10 @@ TextureImporter:
       Player_7: 1929813634
       Player_8: 1943620145
       Player_9: 121095731
+      TEST_NPC1: 1019640519
+      TEST_NPC2: 654532782
+      TEST_NPC3: 334100153
+      TEST_NPC4: 1234530056
       crate_1: 1190512959
       crate_2: 793986184
       door_0: -2104118284
@@ -2052,6 +2224,8 @@ TextureImporter:
       floor_6: 1432642383
       floor_7: 113675355
       floor_9_slime: -850691331
+      golden_sword_1: 292003239
+      golden_sword_2: -21936464
       healingfountain_0: -1673386820
       healingfountain_1: -372109225
       healingfountain_2: -8086977
@@ -2087,17 +2261,19 @@ TextureImporter:
       wall-above-right-corner: 1641056377
       wall-bottomleftcorner: -557792729
       wall-bottomrightcorner: -414328329
-      wall_2: -237159072
-      wall_above2: 605231922
       wall_above_1: 927579952
+      wall_above_2: 605231922
       wall_above_3-leftcorner: -1779600936
       wall_above_4: -1346696793
       wall_above_5: 1794713943
       wall_above_6-rightcorner: -1006191383
-      wall_brickleftside: 960109665
-      wall_brickrightside: 1218068563
+      wall_brick_left_side1: 84019711
+      wall_brick_left_side2: 1218068563
+      wall_brick_right_side1: -1711354718
+      wall_brick_right_side2: 960109665
       wall_crack_0: -158647994
       wall_crack_1: 1603635139
+      wall_full: -237159072
       wall_top: -245790249
       wall_top_2: 192822612
       wall_topview-bottom-brick: 450821715
